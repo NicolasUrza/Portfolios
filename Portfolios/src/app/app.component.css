@@ -1,1 +1,17 @@
 
+.metal{
+    height: 300px;
+    margin: 10%;
+    padding: 2%;
+    position:absolute;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.7);
+    border-radius: 35px;
+    justify-content: center;
+    align-items: center;
+}
+
+.texto-borde {
+    -webkit-text-stroke: 0.3px rgb(154, 172, 139);
+    font-weight: bold;
+    justify-self: center;
+  }
